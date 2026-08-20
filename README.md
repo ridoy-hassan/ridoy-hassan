@@ -5,11 +5,11 @@
 <h3 align="center">
 Laravel Developer • Go Developer • Problem Solver
 </h3>
-
+/*
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
-
+*/
 ---
 
 <p align="center">
