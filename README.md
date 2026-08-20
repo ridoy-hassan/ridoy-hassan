@@ -90,36 +90,6 @@ Laravel Developer • Go Developer • Problem Solver
 
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=ridoy-hassan&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ridoy-hassan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ridoy-hassan&theme=tokyonight&hide_border=true"/>
-
-</p>
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridoy-hassan&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 
 
 # 🐍 Contribution Snake
@@ -140,15 +110,7 @@ Laravel Developer • Go Developer • Problem Solver
 
 </p>
 
-<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridoy-hassan&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ridoy-hassan&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridoy-hassan&theme=tokyonight"/>
 
@@ -163,19 +125,6 @@ Laravel Developer • Go Developer • Problem Solver
 <p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# ☕ Support Me
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gurjot-zaildar&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/gurjot-zaildar?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/gurjot-zaildar?style=for-the-badge"/>
 
 </p>
 <p align="center">
