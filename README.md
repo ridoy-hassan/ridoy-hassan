@@ -2,11 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Ridoy Hassan</h1>
 
-<h3 align="center">
-Laravel Developer • Go Developer • Problem Solver
-</h3>
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
