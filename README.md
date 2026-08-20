@@ -5,12 +5,7 @@
 <h3 align="center">
 Laravel Developer • Go Developer • Problem Solver
 </h3>
-/*
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
-*/
----
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
@@ -125,16 +120,7 @@ Laravel Developer • Go Developer • Problem Solver
 
 ---
 
-/* # LeetCode
 
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/gurjot_singh_coder?theme=dark&font=Baloo&ext=heatmap"/>
-
-</p>
----
-
-*/
 
 # 🐍 Contribution Snake
 
@@ -183,17 +169,7 @@ Laravel Developer • Go Developer • Problem Solver
 ---
 
 # ☕ Support Me
-/*
-<p align="center">
 
-<a href="https://drive.google.com/file/d/1hkc0qiPg-FRx6uXAtCPsrRMFe1HvYhPL/view?usp=drivesdk">
-<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
-</p>
-
----
-*/
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gurjot-zaildar&style=for-the-badge&color=blue"/>
